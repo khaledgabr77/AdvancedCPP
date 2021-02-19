@@ -1,0 +1,22 @@
+Weapons
+   Explosive
+      RPG
+      Bazooka
+   Bullets
+        Automatic
+            Rifles
+               MP4
+               AK47
+            Guns
+               Uzi
+               MAC11
+        SemiAuto
+            Rifles
+                AR15
+                BerettaBM59
+            Guns
+              1911
+              SpringFieldXD
+   Blades
+       Knife
+       Sword
