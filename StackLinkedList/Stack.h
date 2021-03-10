@@ -20,7 +20,7 @@ typedef struct stack {
 #endif // IMPLEMENTATION
 
 void CreateStack(Stack *);
-void Push(Stack *, StackEntry *);
+void Push(Stack *, StackEntry);
 void Pop(Stack *, StackEntry *);
 int StackFull(Stack *);
 int StackEmpty(Stack *);
